@@ -1,0 +1,19 @@
+update=Sun 22 Mar 2015 05:16:06 PM PDT
+last_client=kicad
+[general]
+version=1
+[eeschema]
+version=1
+LibDir=../../tm/v2/tm-kicad-library
+[eeschema/libraries]
+LibName1=tm-kicad-lib
+LibName2=lib/samd21e15a-mu
+LibName3=lib/microusb
+LibName4=power
+LibName5=device
+LibName6=conn
+LibName7=lib/conn_02x05
+LibName8=lib/fxmar2104
+LibName9=lib/tps73101
+LibName10=lib/ap2120n
+LibName11=lib/led-rgb-common-anode

@@ -1,0 +1,248 @@
+Cmp-Mod V01 Created by Cvpcb 0.201503190816+5525~22~ubuntu14.10.1-product   date = Sun 22 Mar 2015 05:19:48 PM PDT
+
+BeginCmp
+TimeStamp = /550E02B3;
+Reference = C1;
+ValeurCmp = 10pF;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /550F0C67;
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /550DFD5F;
+Reference = C3;
+ValeurCmp = 10pF;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /550F1372;
+Reference = C4;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /550DFDB8;
+Reference = C5;
+ValeurCmp = 10pF;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /550DF4FB;
+Reference = C6;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /550DFDD6;
+Reference = C8;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /550DF51B;
+Reference = C9;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /550F1630;
+Reference = C10;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /550E474F;
+Reference = C11;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /550E36BD;
+Reference = C12;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /550E4755;
+Reference = C13;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /550E36EF;
+Reference = C14;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /550F3D6A;
+Reference = D1;
+ValeurCmp = LED-RGB-COMMON-ANODE;
+IdModule  = lib:LED-1206-RGB;
+EndCmp
+
+BeginCmp
+TimeStamp = /550DF812;
+Reference = J1;
+ValeurCmp = microUSB;
+IdModule  = lib:MICRO-USB-10104111;
+EndCmp
+
+BeginCmp
+TimeStamp = /550E0C34;
+Reference = P1;
+ValeurCmp = CONN_02X05;
+IdModule  = lib:CONN_02x05_0.05in;
+EndCmp
+
+BeginCmp
+TimeStamp = /550E1D55;
+Reference = P2;
+ValeurCmp = CONN_6X2;
+IdModule  = Pin_Headers:Pin_Header_Angled_2x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /550FBA24;
+Reference = P3;
+ValeurCmp = CONN_2;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /550E02E7;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /550F28E4;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /550F2918;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /550F30C7;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /550E5121;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /550E5082;
+Reference = R6;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /550F50FC;
+Reference = R7;
+ValeurCmp = 120;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /550F529D;
+Reference = R8;
+ValeurCmp = 120;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /550F52F1;
+Reference = R9;
+ValeurCmp = 120;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /550FC4D9;
+Reference = R10;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /550FC5C4;
+Reference = R11;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /550F091F;
+Reference = U1;
+ValeurCmp = AP2120N;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /550DF687;
+Reference = U2;
+ValeurCmp = SAMD21E15A-MU;
+IdModule  = lib:QFP32;
+EndCmp
+
+BeginCmp
+TimeStamp = /550F09D2;
+Reference = U3;
+ValeurCmp = TPS73101;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /550E2D16;
+Reference = U4;
+ValeurCmp = FXMAR2104;
+IdModule  = lib:UMLP-12;
+EndCmp
+
+BeginCmp
+TimeStamp = /550E2DE6;
+Reference = U5;
+ValeurCmp = FXMAR2104;
+IdModule  = lib:UMLP-12;
+EndCmp
+
+BeginCmp
+TimeStamp = /550DFBD7;
+Reference = X1;
+ValeurCmp = CRYSTAL;
+IdModule  = lib:FC-135;
+EndCmp
+
+EndListe
