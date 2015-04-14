@@ -1,0 +1,26 @@
+IO:
+
+PA04 E4    SERCOM0[0]
+PA05 E5    SERCOM0[1] connected to PA11 SCK for SPI sniff
+PA06 E6    SERCOM0[2] connected to PA09 CS for SPI sniff
+PA07 E7    SERCOM0[3] connected to PA08 MISO for SPI sniff and external interrupt
+
+PA09 E9    SERCOM0/2[1] TCC0[1] TCC1[3]    SCK  CS   SCK  (CS)
+PA08       SERCOM0/2[0] TCC0[0] TCC1[2]    MOSI           (MOSI) (TX)
+PA10 E10   SERCOM0/2[2] TCC0[2] TCC1[0] G4 CS   MOSI CS   (MISO) (RX) TX
+PA11 E11   SERCOM0/2[3] TCC0[3] TCC1[1] G5      SCK  MOSI (SCK)
+
+master DOPO: 0x3
+slave DOPO SERCOM2: 0x3  SERCOM0: 0x0
+
+PA14 E14   SERCOM2[2] TCC0[4]         G0 (TX)
+PA15 E15   SERCOM2[3] TCC0[5]         G1 (RX)
+PA17 E1    SERCOM1[1] TCC0[7] TCC2[1] G3 (SCL)
+PA16 E0    SERCOM1[0] TCC0[6] TCC2[0] G2 (SDA)
+
+LED:
+
+PA18 TC3[0]
+PA19 TC3[1]
+PA22 TC4[0]
+PA23 TC4[1]
