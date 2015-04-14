@@ -1,4 +1,4 @@
-update=Sun 22 Mar 2015 05:16:06 PM PDT
+update=Tue 24 Mar 2015 08:23:19 PM PDT
 last_client=kicad
 [general]
 version=1
@@ -17,3 +17,16 @@ LibName8=lib/fxmar2104
 LibName9=lib/tps73101
 LibName10=lib/ap2120n
 LibName11=lib/led-rgb-common-anode
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+RptD_X=0
+RptD_Y=100
+RptLab=1
+LabSize=60
